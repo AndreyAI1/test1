@@ -1,6 +1,2 @@
 print(123444)
-print(123444)
-print(123444)
-print(123444)
-print(123444)
-print(123444)
+
